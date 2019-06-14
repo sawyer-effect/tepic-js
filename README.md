@@ -4,8 +4,8 @@
 
 ## Unete a la comunidad en Facebook y Twitter:
 
-https://www.facebook.com/Tepicjs-348045509393293/
-https://twitter.com/TepicJS
+* https://www.facebook.com/Tepicjs-348045509393293/
+* https://twitter.com/TepicJS
 
 TepicJS es una comunidad que desea fomentar el conocimiento por el lenguaje de JavaScript en a través de pláticas.
 
